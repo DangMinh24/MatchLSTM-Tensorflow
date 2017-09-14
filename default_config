@@ -1,0 +1,4 @@
+num_workers = 4
+glove_dimension = 50
+use_dev = False
+hidden_state=128

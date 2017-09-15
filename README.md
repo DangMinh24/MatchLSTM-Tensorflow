@@ -13,7 +13,7 @@ of reimplementations in tensorflow, which can give us a better view the basic id
 * Downloads train set and dev set from [SQuAD data set](https://rajpurkar.github.io/SQuAD-explorer/), save in data/ directory
 * Downloads all required python libraries:
 ```
-  sudo pip3 install -r requirement
+  sudo pip3 install -r requirements.txt
 ```
 * Downloads StanfordCoreNLP and put into data/tokenizer (or specific your tokenizer's path)
 
